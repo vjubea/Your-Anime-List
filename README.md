@@ -10,7 +10,7 @@ yourAnimeList.db - database used by the web-app.
 https://www.youtube.com/watch?v=wq78d8Gt8mM
 
 ## WEB-APP INSTALL INSTRUCTIONS: 
-1. Open a console an integrated console within the current folder.
+1. Open a console an integrated console within the project folder.
 2. Type `npm install` in the console to install the required npm modules.
 
 ## LAUNCH INSTRUCTIONS:
