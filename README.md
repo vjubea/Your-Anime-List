@@ -1,6 +1,6 @@
 NAME: Vlad Jubea | 101259927
 
-# English description and ER model of your database:
+# Database English description and ER model:
 Final_Database_Description.pdf
 
 # Sqlite3 Database:
@@ -9,14 +9,14 @@ yourAnimeList.db - database used by the web-app.
 # YouTube Demo VIDEO LINK
 https://www.youtube.com/watch?v=wq78d8Gt8mM
 
-WEB-APP INSTALL INSTRUCTIONS: 
+# WEB-APP INSTALL INSTRUCTIONS: 
 1. Open a console an integrated console within the current folder.
 2. Type `npm install` in the console to install the required npm modules.
 
-LAUNCH INSTRUCTIONS:
+# LAUNCH INSTRUCTIONS:
 Type `node app.js` in the console to start the server.
 
-TESTING INSTRUCTIONS: 
+# TESTING INSTRUCTIONS: 
 1. Visit `http://localhost:3000` within a browser window.
 2. Register by clicking "Don't have an account? Register" blue text.
     2a. Provide the username that will identify you and your contributions to the database.
